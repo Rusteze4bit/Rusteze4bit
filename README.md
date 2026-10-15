@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Rusteze
 
-<!--
-**Rusteze4bit/Rusteze4bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer & Builder
 
-Here are some ideas to get you started:
+I build modern web applications, trading tools,
+automation systems and SaaS platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Building
+
+- Trading platforms
+- Web automation tools
+- AI-powered applications
+- SaaS dashboards
+- Trading bots
+
+## 🛠 Tech Stack
+
+JavaScript • TypeScript • React • Node.js • Python
+
+Supabase • PostgreSQL • Git • GitHub
+
+## 🌐 Projects
+
+### KashyTools
+Trading tools and automation platform.
+
+### NyumbaPay
+Property and rental management platform.
+
+### BinaryTool
+Trading tools and automation ecosystem.
+
+## 📫 Connect With Me
+
+Website: https://kashytrader.site
